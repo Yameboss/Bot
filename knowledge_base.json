@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hello"
+    },
+    {
+      "question": "What is ProfIt?",
+      "answer": "ProfIT is a tool that is designed specifically for software development teams"
+    },
+    {
+      "question": "SAPR",
+      "answer": "This is a set of software and hardware used for simple, inexpensive and quick development of projects, models and drawings."
+    }
+  ]
+}
